@@ -8,6 +8,3 @@ for i in range(1,101):
     if a == "":
         a = str(i)
     print(a)
-    
-
-           
